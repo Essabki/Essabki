@@ -2,8 +2,6 @@
 <h1 align="left">ESSABKI</h1>
 
 ###
-
-<p align="left">Web Developer & Designer<br> who enjoys building modern, interactive, and creative web applications. I focus on both frontend visuals and backend logic.<br>
 <br>Languages : English User</p>
 
 ###
