@@ -1,10 +1,9 @@
 
-<h1 align="left">ESSABKI</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<br>Languages : English User</p>
 
-###
+<p align="left">it's Essabki and i'm a frontend developer</p>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
